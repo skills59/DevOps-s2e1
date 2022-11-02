@@ -39,8 +39,11 @@ docker run -dp 3000:3000 getting-started
 
 After a few seconds, open your web browser to http://localhost:3000. You should see the app!
 
+![image](https://user-images.githubusercontent.com/56154525/199486257-63ddc733-7625-48f4-b23d-0cdff2dde62c.png)
+
+
 If you take a quick look at the Docker Dashboard, you should see containers running.
 
 Thanks for reading and practicing to be better with this. 
 
-im also practicing to be better, kee it u and n no time your head will be there .
+im also practicing to be better, keep it u and n no time your head will be there .
