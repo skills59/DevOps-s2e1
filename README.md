@@ -1,5 +1,7 @@
-### My Name is Olatunde and your welcome to  
-# My DevOps Season2 Episode1 Motion.
+### My Name is Olatunde and your welcome to My DevOps Season2 Episode1 Motion 
+
+todays Focus 
+# Docker.
 
 this project shows a freshly launched simple todo app list manager container running on Node.js built with Docker
 it displays the very basics about building a container image and creating a Dockerfile to do so. Once the image is built, 
