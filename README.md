@@ -1,7 +1,7 @@
 ### My Name is Olatunde and your welcome to My DevOps Season2 Episode1 Motion 
 
 todays Focus 
-# Docker.
+# Docker ![image](https://user-images.githubusercontent.com/56154525/199482120-0a0f4270-ba2c-42da-b0c9-03e28ed9eeb7.png).
 
 this project shows a freshly launched simple todo app list manager container running on Node.js built with Docker
 it displays the very basics about building a container image and creating a Dockerfile to do so. Once the image is built, 
@@ -37,6 +37,9 @@ imidiately after that we can then proceed to start the container with the below 
 docker run -dp 3000:3000 getting-started
 
 After a few seconds, open your web browser to http://localhost:3000. You should see the app!
+
+![image](https://user-images.githubusercontent.com/56154525/199482322-40df4949-52d2-4093-89f9-11685581f091.png)
+
 
 If you take a quick look at the Docker Dashboard, you should see containers running.
 
